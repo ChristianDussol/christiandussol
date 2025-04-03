@@ -11,6 +11,7 @@ I focus on cloud-native technologies for financial services, with expertise in K
 # 📫 How to reach me:
 
 📧 christian.dussol@gmail.com
+
 🔗 https://www.linkedin.com/in/christiandussol/
 
 ### Projects and Initiatives
