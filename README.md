@@ -16,7 +16,7 @@ I focus on cloud-native technologies for financial services, with expertise in K
 ### Projects and Initiatives
 
 - [Cloud Native Knowledge Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) - Educational resources on cloud-native technologies
-- [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kubernetes policies
+- [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kubernetes native policies for security and compliance - Educational resources
 
 ### Areas of Interest
 
