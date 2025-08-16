@@ -14,7 +14,7 @@ I focus on cloud-native & computing technologies for financial services, with ex
 
 🔗 https://www.linkedin.com/in/christiandussol/
 
-## Certifications
+## 🎖️ Certifications
 [Cert Directory io profile](https://certdirectory.io/profile/47ed32f5-02b4-4504-a95a-851465269f9b)
 
 ## Projects and Initiatives
