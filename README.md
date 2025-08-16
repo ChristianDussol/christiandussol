@@ -8,22 +8,22 @@
 
 I focus on cloud-native & computing technologies for financial services, with expertise in Kubernetes governance.
 
-# 📫 How to reach me:
+## 📫 How to reach me
 
 📧 christian.dussol@gmail.com
 
 🔗 https://www.linkedin.com/in/christiandussol/
 
-# Certifications:
+## Certifications
 [Cert Directory io profile](https://certdirectory.io/profile/47ed32f5-02b4-4504-a95a-851465269f9b)
 
-### Projects and Initiatives
+## Projects and Initiatives
 
 - [Cloud Native Knowledge Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) - Educational resources on cloud-native technologies
 - [Cloud Computing Knowledge Hub](https://github.com/christian-dussol-cloud-computing/cloud-computing-knowledge-hub) - Educational resources on cloud-computing technologies
 - [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kubernetes native policies for security and compliance - Educational resources
 
-### Areas of Interest
+## Areas of Interest
 
 - CNCF
 - Cloud native
