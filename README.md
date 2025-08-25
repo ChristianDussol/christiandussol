@@ -12,7 +12,7 @@ I focus on cloud-native & computing technologies for financial services, with ex
 
 📧 christian.dussol@gmail.com
 
-🔗 https://www.linkedin.com/in/christiandussol/
+🔗 [Linkedin profile](https://www.linkedin.com/in/christiandussol/)
 
 ## ✍️ Medium
 
