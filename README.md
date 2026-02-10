@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
 
-## Engineering Manager at Finastra | Cloud Native & Computing Enthusiast
+## Engineering Manager at teciem | Cloud Native & Computing Enthusiast
 
 I focus on cloud-native & computing technologies for financial services, with expertise in Kubernetes governance.
 
