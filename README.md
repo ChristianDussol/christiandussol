@@ -4,9 +4,15 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
 
-## Director of Engineering at teciem | Cloud Native & Computing Enthusiast
+## Director of Engineering at teciem | Cloud Native x AI Native x Financial Services
 
-I focus on cloud-native & computing technologies for financial services, with expertise in Kubernetes governance.
+I focus on cloud-native, AI-native & computing technologies for financial services
+
+## 🌐 christiandussol.dev
+
+[www.christiandussol.dev](https://www.christiandussol.dev) - Cloud-native and AI-native
+engineering for regulated financial services. Deep-dives, governance patterns,
+and the builds behind them, indexed in one place.
 
 ## 📫 How to reach me
 
