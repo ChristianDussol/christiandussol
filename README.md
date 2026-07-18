@@ -25,6 +25,7 @@ I focus on cloud-native & computing technologies for financial services, with ex
 
 - [Cloud Native Knowledge Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) - Educational resources on cloud-native technologies
 - [Cloud Computing Knowledge Hub](https://github.com/christian-dussol-cloud-computing/cloud-computing-knowledge-hub) - Educational resources on cloud-computing technologies
+- [AI Native Knowledge Hub](https://github.com/christian-dussol-ai-native/ai-native-hub) - Educational resources on AI-native technologies
 
 ## Areas of Interest
 
